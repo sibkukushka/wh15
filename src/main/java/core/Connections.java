@@ -45,3 +45,4 @@ public class Connections implements Comparable<Connections>
         return compareTo((Connections) obj) == 0;
     }
 }
+
